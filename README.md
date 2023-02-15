@@ -4,4 +4,8 @@
 
 
 # rasplicate
-**rasplicate** is a tool that allows you to use a Raspberry Pi as a backup server.
+**rasplicate** is a tool that turns your Raspberry Pi into an automatic backup server.
+
+## Sources
+[rdiff-backup usage](https://rdiff-backup.net/examples.html)
+[unattended backups](http://arctic.org/~dean/rdiff-backup/unattended.html)
