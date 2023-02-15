@@ -6,6 +6,14 @@
 # rasplicate
 **rasplicate** is a tool that turns your Raspberry Pi into an automatic backup server.
 
+## Config
+- source
+- destination
+- interval
+- file change threshold (e.g. >5%) -> warning
+- GPIO status lights (backup - idle - warning)
+- in-/excludes
+
 ## Sources
-[rdiff-backup usage](https://rdiff-backup.net/examples.html)
-[unattended backups](http://arctic.org/~dean/rdiff-backup/unattended.html)
+- [rdiff-backup usage](https://rdiff-backup.net/examples.html)
+- [Unattended backups](http://arctic.org/~dean/rdiff-backup/unattended.html)
