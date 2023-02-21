@@ -6,4 +6,5 @@
 # rasplicate
 **rasplicate** is a tool that turns your Raspberry Pi into an automatic backup server.
 
-🚧 WIP 🚧
+## Features
+🚧 Work in progress
